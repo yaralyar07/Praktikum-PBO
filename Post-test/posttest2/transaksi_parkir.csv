@@ -1,0 +1,4 @@
+id_karcis,jenis_kendaraan,plat_nomor,info_tambahan,status_lunas
+SMD-0001,Mobil,KT 1234 ABC,4,True
+SMD-0002,Motor,KT 5678 XYZ,150,False
+SMD-0003,Mobil,B 9999 ZZZ,2,False
